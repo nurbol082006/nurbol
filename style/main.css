@@ -1,0 +1,324 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.backgrond {
+  background-image: url("../hero\ image.png");
+  height: 800px;
+}
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+.entermation {
+  background-color: white;
+}
+.mask {
+  text-align: center;
+  border: 1px solid black;
+}
+.text {
+  box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  background-color: #fff;
+  width: 290px;
+  height: 276px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.text-1 {
+  font-size: 16px;
+}
+.magis {
+  color: #2c2c2c;
+}
+.magis-1 {
+  color: #bc9060;
+}
+.link {
+  display: none;
+}
+.logo-none {
+  display: flex;
+  justify-content: space-between;
+}
+.logo-left {
+  width: 30px;
+  height: 30px;
+  position: fixed;
+}
+.logo-right {
+  width: 35px;
+  height: 35px;
+  position: fixed;
+}
+.left {
+  padding-top: 25px;
+  padding-left: 20px;
+}
+.right {
+  padding-top: 25px;
+  padding-right: 55px;
+}
+.home {
+  color: #d67e35;
+  text-align: center;
+  padding-top: 200px;
+}
+.delete {
+  margin-top: -100px;
+}
+.end {
+  font-size: 40px;
+}
+.welcome {
+  font-size: 30px;
+}
+.btn {
+  background-color: #ff7400;
+  padding: 10px 15px;
+  margin-top: 20px;
+}
+.object {
+  text-align: center;
+}
+.size {
+  font-size: 40px;
+  color: #bc9060;
+}
+.size-1 {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.proramme {
+  background-image: url("../bg.png");
+  height: 370px;
+}
+.copybox {
+  color: #fff;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 20px;
+}
+.homeback {
+  color: #d67e34;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 25px;
+}
+.botton {
+  padding: 15px 15px;
+  background-color: #ff7400;
+  color: #fff;
+}
+.block-2 {
+  text-align: center;
+  padding-top: 50px;
+}
+.angry-birds {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.angry {
+  font-size: 40px;
+}
+.birds {
+  color: #d67e34;
+  font-size: 40px;
+}
+
+.crosign {
+  width: 320px;
+}
+.shift-1 {
+  display: flex;
+  margin-top: 30px;
+}
+.hotdog {
+  width: 130px;
+  margin-bottom: 40px;
+  margin-left: 15px;
+}
+.texttip {
+  margin-top: 40px;
+  margin-left: 20px;
+}
+.maksi {
+  width: 290px;
+  height: 510px;
+  background-color: #fff;
+  margin: 0 auto;
+  position: relative;
+  top: 65px;
+}
+.maksi-block {
+  background-image: url(../bar-1869656_1920\ 2.png);
+  height: 836px;
+  background-repeat: no-repeat;
+}
+.gamburger {
+  border-radius: 50%;
+  width: 225px;
+  height: 225px;
+}
+.maslo {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  background-color: #d67e34;
+  position: relative;
+  bottom: 100px;
+  left: 135px;
+}
+.blabla {
+  position: relative;
+  top: 30px;
+  left: 28px;
+  font-size: 30px;
+  color: #fff;
+}
+.menu {
+  position: relative;
+  top: 60px;
+  text-align: center;
+}
+.menu h2 {
+  font-size: 54px;
+  color: #fff;
+  margin-bottom: 100px;
+  position: relative;
+  top: 60px;
+  text-align: center;
+  font-weight: 400;
+}
+.content {
+  text-align: center;
+  font-size: 16px;
+}
+.admin {
+  text-align: center;
+  font-size: 26px;
+  margin-top: -90px;
+  margin-bottom: 20px;
+}
+
+.open {
+  padding: 10px 50px;
+  background-color: #d67e34;
+  margin-left: 45px;
+  margin-top: 20px;
+}
+
+.taxt {
+  text-align: center;
+  background-color: #e5e4e4;
+  height: 550px;
+  position: relative;
+}
+.taxt-text {
+  position: relative;
+  top: 10px;
+  font-size: 20px;
+}
+
+.control {
+  margin-top: 35px;
+}
+.colsulant {
+  font-weight: 600;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.master {
+  font-weight: 400;
+  font-size: 20px;
+}
+.input {
+  margin-top: 20px;
+}
+.prettier{
+  text-align: center;
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+.fish {
+  font-size: 40px;
+}
+.lavash {
+  font-size: 40px;
+  color: #d67e34;
+}
+.bottom{
+  margin-bottom: 20px;
+}
+.caps{
+  width: 286px;
+  margin-bottom: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 1020px) {
+  .backgrond {
+    height: 800px;
+  }
+  .entermation {
+    background-color: #fff;
+  }
+  .text {
+    width: 349px;
+    height: 328px;
+  }
+  .text-1 {
+    color: #656363;
+    font-size: 26px;
+  }
+
+  .logo-none {
+    display: none;
+  }
+  .link {
+    display: flex;
+    justify-content: space-between;
+  }
+  .now {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 60px;
+  }
+  .around {
+    margin-left: 45px;
+    padding: 25px 15px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .crosign {
+    margin-left: 210px;
+    width: 768px;
+  }
+}
+/* @media screen and(min-width:375px) {
+  .crosign {
+    width: 450px;
+  }
+} */
+
+@media screen and (min-width: 425px) {
+  .crosign {
+    width: 414px;
+  }
+  .caps{
+    width: 412px;
+  }
+}
